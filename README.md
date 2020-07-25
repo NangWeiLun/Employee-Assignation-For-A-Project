@@ -1,6 +1,6 @@
 # Employee Assignation For A Project By Using Genetic Algorithm
 
-- My assignment in Evolutionary Computing course. Write in C++, simple software run only in terminal.
+- My assignment in UTeM's course Evolutionary Computing. Write in C++, simple software run only in terminal.
 
 - A software that use to achieve the best solution which pay out the minimum of salary and get back the maximum of employees’ efficiency.
 
